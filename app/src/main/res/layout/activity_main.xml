@@ -13,7 +13,7 @@
         android:id="@+id/pytanie"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:textSize="22sp"
+        android:textSize="24sp"
         android:text="@string/pytanie" />
 
     <RadioGroup
